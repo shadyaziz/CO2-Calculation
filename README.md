@@ -1,3 +1,6 @@
+<h1>Project Description</h1>
+A program that returns the amount of CO2-equivalent that will be caused when traveling between two cities using a given transportation method.
+
 <h1>Project Building</h1>
 
 1. Add an ENV variable called <b>"ORS_TOKEN"</b> with your OpenRoute token 
